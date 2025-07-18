@@ -17,8 +17,3 @@ It helps network admins and penetration testers to monitor traffic more effectiv
 - MikroTik RouterOS access
 - Torch output (via Winbox or SSH)
 
-## 🚀 Usage
-1. Export IPs from MikroTik Torch.
-2. Run the script:
-   ```bash
-   python ip2domain.py
