@@ -7,7 +7,7 @@ Real-Time MikroTik Traffic IP Resolver
 Monitors active MikroTik firewall connections and resolves destination IPs to domain names,
 with a fallback to WHOIS-based organization information when reverse DNS is unavailable.
 
-Author: YourName
+Author: Nazanin Oboudi
 GitHub: https://github.com/nazaninoboudi1/TorchDNSResolver
 License: MIT
 """
