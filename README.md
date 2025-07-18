@@ -67,5 +67,5 @@ pip install routeros-api
 ---
 ## 👤 Author
 
-**Nazanin Noboudi**
+**Nazanin Oboudi**
 
